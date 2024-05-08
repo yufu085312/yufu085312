@@ -1,4 +1,6 @@
-### Hi there 👋
+# Yuta Fukuhara
+- 愛知県出身
+- 情報系の学部に通っている大学生です。
 
 <!--
 **yufu085312/yufu085312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
