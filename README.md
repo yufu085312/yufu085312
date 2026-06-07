@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yuta Fukuhara.</h1>
 
 ## Stats
-![yufu085312's GitHub stats](https://github-readme-stats.vercel.app/api?username=yufu085312&show_icons=true&theme=tokyonight&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yufu085312&hide=html,JavaScript,jupyter%20notebook,css,scss&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![yufu085312](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yufu085312&theme=tokyonight)
 ![yufu085312](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yufu085312&hide=html,JavaScript,jupyter%20notebook,css,scss&layout=compact&theme=tokyonight)
