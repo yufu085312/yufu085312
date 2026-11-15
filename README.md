@@ -79,20 +79,23 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yufu085312&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yufu085312&layout=compact&theme=radical&hide_border=true&hide=html,JavaScript,jupyter%20notebook,css,scss" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yufu085312&theme=radical" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yufu085312&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yufu085312&theme=radical" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yufu085312&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yufu085312&theme=radical" />
 </div>
 
 <br>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=yufu085312&theme=radical&hide_border=true" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yufu085312&theme=redical&hide_border=true&area=true" />
 </div>
 
 <br>
